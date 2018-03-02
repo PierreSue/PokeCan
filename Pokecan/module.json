@@ -1,0 +1,15 @@
+{
+  "name": "pokecan",
+  "version": "0.0.1",
+  "bin": "./source",
+  "private": true,
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "mbed-drivers": "^1.5.0",
+    "adafruit-ssd1306": "~0.0.2",
+    "mcp230xx": "~0.0.1",
+    "pca9685": "~0.0.2",
+    "mbed-trace": "^1.1.3"
+  }
+}
