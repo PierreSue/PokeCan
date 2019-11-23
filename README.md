@@ -6,7 +6,7 @@ Pokecan is a trash can that can automatically detect the level of trash inside i
 ## Hardware implementation
 1. Motors
 
-* There are totally six motors.
+    * There are totally six motors.
 * Two adhered to the base by hot melt glue gun to control the ups and downs
 * Two are bolted on the tubes by screws to control dumping.
 * And two are under the base to move Pokecan around.
